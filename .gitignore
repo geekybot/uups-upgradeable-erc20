@@ -1,0 +1,18 @@
+# Exclude dependencies, build artifacts, and environment files
+lib/
+broadcast/
+out/
+cache/
+.env
+
+# Compiler files
+cache/
+out/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+bin
+
